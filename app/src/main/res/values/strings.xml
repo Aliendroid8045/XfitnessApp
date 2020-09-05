@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BiometricLogin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="biometric_prompt">BiometricPrompt In Kotlin</string>
+    <string name="biometric_use_instruction">This app is a demo of biometric authentication using BiometricPrompt API in android. This app support face recognition,
+        fingerprint authentication.</string>
+    <string name="biometric_change_instruction">App also detect a biometric change as well, when you change your biometric in device and relaunch this app, we detect this biometric change and display alert.</string>
+    <string name="sign_in_using_biometric">Sign in</string>
+    <string name="register_your_biometric">Enroll in biometric</string>
+    <string name="disable_your_biometric">Disable biometric</string>
+    <string name="success_message">Successfully login with your biometric</string>
+    <string name="logout">Logout</string>
+    <string name="harware_not_support">Hardware is not available</string>
+    <string name="phone_not_support_biometric">Your device does not have biometric support.</string>
+    <string name="not_now">Not now</string>
+    <string name="enable">Enable</string>
+    <string name="disable_bio_title">Disabled Biometric</string>
+    <string name="successfully_disable_bio">You have successfully disabled biometric. Please Enroll to sign in back.</string>
+</resources>

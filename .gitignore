@@ -14,3 +14,6 @@
 /.gradle/6.1.1/fileHashes/resourceHashesCache.bin
 /.gradle/6.1.1/javaCompile/taskHistory.bin
 /local.properties
+/.gradle/checksums/md5-checksums.bin
+/.gradle/checksums/sha1-checksums.bin
+/.app.iml
